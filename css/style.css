@@ -99,7 +99,7 @@ body {
   margin: auto;
 }
 
-.border-1 {
+.border {
   border-bottom: 0.063rem solid #cfcfcf;
   width: 75rem;
   margin: 0 auto;
@@ -173,14 +173,6 @@ body {
   background: radial-gradient(128.88% 128.88% at 103.9% -10.39%, #2c00f1 45%, #f50404 53.09%, #09ff00 100%);
 }
 
-.border-2 {
-  border-bottom: 0.063rem solid #cfcfcf;
-  width: 75rem;
-  margin: 0 auto;
-  margin-top: 3.125rem;
-  margin-bottom: 3.125rem;
-}
-
 .third-part {
   width: 75rem;
   margin: 0 auto;
@@ -232,14 +224,6 @@ body {
   margin-left: 1rem !important;
   font-family: Paytone One;
   color: #6cdd10;
-}
-
-.border-3 {
-  border-bottom: 0.063rem solid #cfcfcf;
-  width: 75rem;
-  margin: 0 auto;
-  margin-top: 3.125rem;
-  margin-bottom: 3.125rem;
 }
 
 .fourth-part {
@@ -387,14 +371,6 @@ body {
   background-color: #a3be10 !important;
 }
 
-.border-4 {
-  border-bottom: 0.063rem solid #cfcfcf;
-  width: 75rem;
-  margin: 0 auto;
-  margin-top: 3.125rem;
-  margin-bottom: 3.125rem;
-}
-
 .fifth-part {
   width: 75rem;
   height: 37.188rem;
@@ -454,7 +430,7 @@ body {
 
 .fifth-part .fifth-part-common-end ul li {
   font-family: 'Caveat', sans-serif;
-  font-size: 22px;
+  font-size: 1.375rem;
 }
 
 .fifth-part .fifth-part-common-middle {

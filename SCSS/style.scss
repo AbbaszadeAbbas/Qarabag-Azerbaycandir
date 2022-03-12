@@ -166,7 +166,7 @@ body {
   }
 }
 
-.border-1 {
+.border {
   border-bottom: $space-1px solid $color-cfcfcf;
   width: $space-1200px;
   margin: 0 auto;
@@ -241,15 +241,6 @@ body {
   }
 }
 
-
-.border-2 {
-  border-bottom: $space-1px solid $color-cfcfcf;
-  width: $space-1200px;
-  margin: 0 auto;
-  margin-top: $space-50px;
-  margin-bottom: $space-50px;
-}
-
 .third-part {
   // border: 1px solid black;
   width: $space-1200px;
@@ -298,14 +289,6 @@ body {
     font-family: Paytone One;
     color: $color-green;
   }
-}
-
-.border-3 {
-  border-bottom: $space-1px solid $color-cfcfcf;
-  width: $space-1200px;
-  margin: 0 auto;
-  margin-top: $space-50px;
-  margin-bottom: $space-50px;
 }
 
 .fourth-part {
@@ -426,15 +409,6 @@ body {
     background-color: $color-a3be10 !important;
   }
 }
-
-.border-4 {
-  border-bottom: $space-1px solid $color-cfcfcf;
-  width: $space-1200px;
-  margin: 0 auto;
-  margin-top: $space-50px;
-  margin-bottom: $space-50px;
-}
-
 
 .fifth-part {
   // border: 1px solid black;
