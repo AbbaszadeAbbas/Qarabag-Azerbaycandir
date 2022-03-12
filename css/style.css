@@ -375,6 +375,7 @@ body {
   width: 75rem;
   height: 37.188rem;
   margin: 0 auto;
+  margin-bottom: 1.563rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
