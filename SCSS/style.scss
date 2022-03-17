@@ -408,6 +408,10 @@ body {
   .container-box-button div:hover {
     background-color: $color-a3be10 !important;
   }
+  
+  .container:hover{
+  box-shadow: 0 0 25px #528d52;
+  }
 }
 
 .fifth-part {
