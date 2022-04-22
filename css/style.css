@@ -360,7 +360,7 @@ body {
 }
 
 .fourth-part .container-box .container-box-button div h1 {
-  color: white;
+  color: #ffffff;
   font-size: 0.875rem;
   font-weight: 400;
   line-height: 1.42857143;
@@ -369,6 +369,11 @@ body {
 
 .fourth-part .container-box-button div:hover {
   background-color: #a3be10 !important;
+}
+
+.fourth-part .container-box:hover {
+  -webkit-box-shadow: 0 0 1.563rem #528349;
+          box-shadow: 0 0 1.563rem #528349;
 }
 
 .fifth-part {
@@ -456,4 +461,22 @@ body {
 .fifth-part .fifth-part-common:hover {
   -webkit-box-shadow: 0 0 0.313rem 0.438rem #cfcfcf;
           box-shadow: 0 0 0.313rem 0.438rem #cfcfcf;
+}
+
+@media (min-width: 500px) and (max-width: 550px) {
+  .menu, .search, .demir-yumruq, .xari-bulbul {
+    display: none !important;
+  }
+}
+
+@media (min-width: 550px) and (max-width: 630px) {
+  .search, .demir-yumruq, .xari-bulbul {
+    display: none !important;
+  }
+}
+
+@media (min-width: 630px) and (max-width: 840px) {
+  .search {
+    display: none !important;
+  }
 }
